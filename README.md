@@ -1,1 +1,1 @@
-# CodeChallenge-Javascript-CodeWars-Multiplesof3and5
+# CodeChallenge-Javascript-CodeWars
